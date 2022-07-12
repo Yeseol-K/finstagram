@@ -1,0 +1,32 @@
+header {
+  background-color: #244751;
+}
+
+body {
+  background-color: whitesmoke;
+  font-family: 'Open Sans', sans-serif;
+  font-family: 'Roboto Condensed', sans-serif;
+
+}
+main {
+  background-color: white;
+  padding: 16px;
+}
+.my-class {
+  color: red;
+}
+.my-class:hover {
+  color: red;
+}
+#my-unique-id { }
+.finstagram-post {
+  margin-bottom: 48px;
+}.finstagram-post .user-info img {
+  border-radius: 50%;
+}
+a.photo{
+  transition: padding 0.5s;
+}
+a.photo:hover{
+  padding: 10px;
+}
